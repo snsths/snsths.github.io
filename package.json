@@ -1,0 +1,8 @@
+{
+  "name": "snsths.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/snsths/snsths.github.io.git",
+  "author": "Thomas Marciniak <tmarciniakm@gmail.com>",
+  "license": "MIT"
+}
